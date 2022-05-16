@@ -1,0 +1,20 @@
+{
+    "description": "What a horn!",
+    "external_url": "https://austingriffith.com/portfolio/paintings/",
+    "image": "https://austingriffith.com/images/paintings/rhino.jpg",
+    "name": "Rhino",
+    "attributes": [
+       {
+         "trait_type": "BackgroundColor",
+         "value": "pink"
+       },
+       {
+         "trait_type": "Eyes",
+         "value": "googly"
+       },
+       {
+         "trait_type": "Stamina",
+         "value": 22
+       }
+    ]
+  }
